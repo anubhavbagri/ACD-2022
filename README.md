@@ -11,7 +11,7 @@ Course work of Automata Theory and Compiler Design Lab [IT3230]
 ### Lab 2
 
 2. Write a program to count the number of vowels and consonants in a given string.
-3. Write a program to check whether the entered string is a keyword or not. If so, then count number of keywords.
+3. Write a program to check whether the entered string has a keyword or not. If so, then count number of keywords.
 
 ### Lab 3
 

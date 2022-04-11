@@ -1,11 +1,16 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
+#define MAX_LEN 1024
 
 int main()
 {
     int i, vCount = 0, cCount = 0;
-    char str[] = "how are you?";
+    char str[MAX_LEN];
+
+    printf("Enter a string: ");
+    gets(str);
+
     for (i = 0; i < strlen(str); i++)
     {
         str[i] = tolower(str[i]);
