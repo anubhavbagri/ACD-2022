@@ -31,4 +31,4 @@ Course work of Automata Theory and Compiler Design Lab [IT3230]
 ### Lab 6
 
 - [x] 10. Design a Program to find 1’s and 2’s complement of a given binary number.
-- [ ] 11. Write a Program to match names starting with “Mr” or “Ms”.
+- [x] 11. Write a Program to match names starting with “Mr” or “Ms”.
