@@ -15,17 +15,17 @@ Course work of Automata Theory and Compiler Design Lab [IT3230]
 
 ### Lab 3
 
-- [ ] 4. Write a program to check whether the entered string belongs to a grammar as per Chomsky Hierarchy (Type-3/Type-2/Type-1/Type-0) or not. If so, then specify type of grammar.
+- [x] 4. Write a program to check whether the entered string belongs to a grammar as per Chomsky Hierarchy (Type-3/Type-2/Type-1/Type-0) or not. If so, then specify type of grammar.
 
 ### Lab 4
 
-- [ ] 5. Write a program to separate terminals and non-terminals of the given grammar with its counting number.
-- [ ] 6. Design a Program for creating machine that accepts three consecutive one.
+- [x] 5. Write a program to separate terminals and non-terminals of the given grammar with its counting number.
+- [x] 6. Design a Program for creating machine that accepts three consecutive one.
 
 ### Lab 5
 
-- [ ] 7. Design a Program for creating machine that accepts the string always ending with 101.
-- [ ] 8. Design a Program for Mode 3 Machine.
+- [x] 7. Design a Program for creating machine that accepts the string always ending with 101.
+- [x] 8. Design a Program for Mode 3 Machine.
 - [x] 9. Design a program for accepting decimal number divisible by 2.
 
 ### Lab 6
