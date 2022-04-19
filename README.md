@@ -32,3 +32,23 @@ Course work of Automata Theory and Compiler Design Lab [IT3230]
 
 - [x] 10. Design a Program to find 1’s and 2’s complement of a given binary number.
 - [x] 11. Write a Program to match names starting with “Mr” or “Ms”.
+
+### Lab 7
+
+- [ ] 12. Design a program for creating a machine which accepts string having equal no. of 1’s and 0’s.
+- [ ] 13. Design a PDA to accept WCWR where w is any string and WR is reverse of that string and C is a Special symbol.
+- [ ] 14. Design a Program to create PDA machine that accept the well-formed parenthesis. 
+
+### Lab 8
+
+- [ ] 15. Write a program to check whether a given grammar is left recursive, if so, eliminate it.
+- [ ] 16. Write a program to remove left factors from a given CFG.
+
+### Lab 9
+
+- [ ] 17. Write a program to find FIRST and FOLLOW for the given grammar.
+
+### Lab 10
+
+- [ ] 18. Write a program which takes a C source file and create a symbol table. Symbol Table should contain the following fields:
+_Serial no, name, type, scope, size._
