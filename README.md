@@ -68,3 +68,10 @@ Course work of Automata Theory and Compiler Design Lab [IT3230]
 ### Lab 13
 
 - [ ] 24. Write a YACC program to parse any sample source file/language using a given grammar.
+
+## Contributors
+
+- [Anubhav Bagri](https://www.linkedin.com/in/anubhavbagri/)
+- [Aviral Raj](https://www.linkedin.com/in/aviral-raj-5a9a04184/)
+- [Manavendra Sen](https://www.linkedin.com/in/manavendrasen/)
+- [Yash Salian](https://www.linkedin.com/in/yash-salian-664086170/)
