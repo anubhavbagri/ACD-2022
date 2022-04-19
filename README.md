@@ -35,7 +35,7 @@ Course work of Automata Theory and Compiler Design Lab [IT3230]
 
 ### Lab 7
 
-- [ ] 12. Design a program for creating a machine which accepts string having equal no. of 1’s and 0’s.
+- [x] 12. Design a program for creating a machine which accepts string having equal no. of 1’s and 0’s.
 - [ ] 13. Design a PDA to accept WCWR where w is any string and WR is reverse of that string and C is a Special symbol.
 - [ ] 14. Design a Program to create PDA machine that accept the well-formed parenthesis.
 
