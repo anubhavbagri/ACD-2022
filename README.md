@@ -37,7 +37,7 @@ Course work of Automata Theory and Compiler Design Lab [IT3230]
 
 - [ ] 12. Design a program for creating a machine which accepts string having equal no. of 1’s and 0’s.
 - [ ] 13. Design a PDA to accept WCWR where w is any string and WR is reverse of that string and C is a Special symbol.
-- [ ] 14. Design a Program to create PDA machine that accept the well-formed parenthesis. 
+- [ ] 14. Design a Program to create PDA machine that accept the well-formed parenthesis.
 
 ### Lab 8
 
@@ -51,4 +51,20 @@ Course work of Automata Theory and Compiler Design Lab [IT3230]
 ### Lab 10
 
 - [ ] 18. Write a program which takes a C source file and create a symbol table. Symbol Table should contain the following fields:
-_Serial no, name, type, scope, size._
+      _Serial no, name, type, scope, size._
+
+### Lab 11
+
+- [ ] 19. Write a LEX program to identify DIGITS, KEYWORDS and IDENTIFIERS
+      etc. and give separate count of each.
+- [ ] 20. Write a LEX program to add line number to files.
+- [ ] 21. Write a LEX program to print out single line comments.
+- [ ] 22. Write a LEX program to convert decimal to hexadecimal.
+
+### Lab 12
+
+- [ ] 23. Write a program to identify the given grammar is LL 1 or not.
+
+### Lab 13
+
+- [ ] 24. Write a YACC program to parse any sample source file/language using a given grammar.
