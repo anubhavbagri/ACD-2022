@@ -1,6 +1,6 @@
 # ACD Lab 2022
 
-Course work of Automata Theory and Compiler Design Lab [IT3230]
+Course work of Automata Theory and Compiler Design Lab [IT3230] for Information Technology Department, MUJ
 
 ## List of Experiments
 
