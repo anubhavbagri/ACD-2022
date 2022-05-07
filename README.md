@@ -46,7 +46,7 @@ Course work of Automata Theory and Compiler Design Lab [IT3230] for Information 
 
 ### Lab 9
 
-- [ ] 17. Write a program to find FIRST and FOLLOW for the given grammar.
+- [x] 17. Write a program to find FIRST and FOLLOW for the given grammar.
 
 ### Lab 10
 
