@@ -41,16 +41,16 @@ Course work of Automata Theory and Compiler Design Lab [IT3230] for Information 
 
 ### Lab 8
 
-❌ 15. Write a program to check whether a given grammar is left recursive, if so, eliminate it. <br>
-❌ 16. Write a program to remove left factors from a given CFG.
+- [x] 15. Write a program to check whether a given grammar is left recursive, if so, eliminate it. <br>
+- [x] 16. Write a program to remove left factors from a given CFG.
 
 ### Lab 9
 
-❌ 17. Write a program to find FIRST and FOLLOW for the given grammar.
+- [x] 17. Write a program to find FIRST and FOLLOW for the given grammar.
 
 ### Lab 10
 
-- [ ] 18. Write a program which takes a C source file and create a symbol table. Symbol Table should contain the following fields:
+- [x] 18. Write a program which takes a C source file and create a symbol table. Symbol Table should contain the following fields:
       _Serial no, name, type, scope, size._
 
 ### Lab 11
